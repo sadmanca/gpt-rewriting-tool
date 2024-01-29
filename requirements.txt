@@ -1,0 +1,8 @@
+torch
+transformers
+datasets
+openai
+streamlit
+langchain
+streamlit-extras
+pandas
